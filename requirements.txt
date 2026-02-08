@@ -1,0 +1,16 @@
+fastapi==0.115.12
+pandas==2.2.2
+sqlalchemy==2.0.40
+requests==2.32.3
+catboost==1.2.8
+numpy==2.0.2
+pydantic==2.11.3
+scikit_learn==1.6.1
+lightgbm==4.6.0
+xgboost==3.0.0
+psycopg2-binary==2.9.10
+uvicorn==0.34.2
+category-encoders==2.8.1
+loguru==0.7.3
+implicit==0.7.2
+httpx
